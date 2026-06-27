@@ -16,3 +16,8 @@ __pycache__/
 
 # Requirements.txt zostawiamy, aby inni mogli odtworzyć środowisko
 # requirements.txt
+
+# Duże zbiory danych
+otomoto_offers_eng_23-04-2023.csv
+materialy/lab_05/chicago_crimes_sample.csv
+materialy/lab_05/crimes_parquet/year=2026/
